@@ -1,7 +1,7 @@
 {
   "name": "Quark Source++",
   "identifier": "com.noahkeck.quarksource++.demo",
-  "sourceURL": "10.10.10.50/AltStore/source.json",
+  "sourceURL": "https://raw.githubusercontent.com/lukasSVK1/OBSipa/master/source.json",
   "apps": [
     {
       "name": "Camera for OBS Studio",
@@ -15,7 +15,7 @@
       "localizedDescription": "OBS OBS OBS CAMERA",
       "iconURL": "https://is4-ssl.mzstatic.com/image/thumb/Purple114/v4/52/36/d8/5236d8e1-101d-9a51-c928-b53a1980cd52/source/512x512bb.jpg",
       "tintColor": "#ff0000",
-      "size": 90156778,
+      "size": 29802496,
       "permissions": [
         {
           "type": "photos",
