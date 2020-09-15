@@ -1,0 +1,42 @@
+{
+  "name": "Quark Source++",
+  "identifier": "com.noahkeck.quarksource++.demo",
+  "sourceURL": "10.10.10.50/AltStore/source.json",
+  "apps": [
+    {
+      "name": "Camera for OBS Studio",
+      "bundleIdentifier": "com.apple.dt.runtime.swiftDarwin",
+      "developerName": "LUKAS LUKAS",
+      "subtitle": "OBS",
+      "version": "3.0.3",
+      "versionDate": "0000-00-00",
+      "versionDescription": "SOMEHING NEW",
+      "downloadURL": "https://drive.google.com/uc?export=download&id=1BX9-fQmVcldwMGaR2bd0FYMuV-ID9nOk",
+      "localizedDescription": "OBS OBS OBS CAMERA",
+      "iconURL": "https://is4-ssl.mzstatic.com/image/thumb/Purple114/v4/52/36/d8/5236d8e1-101d-9a51-c928-b53a1980cd52/source/512x512bb.jpg",
+      "tintColor": "#ff0000",
+      "size": 90156778,
+      "permissions": [
+        {
+          "type": "photos",
+          "usageDescription": "This lets you upload videos you've already created."
+        },
+        {
+          "type": "contacts",
+          "usageDescription": "Your contacts will be sent to YouTube servers to help you find friends to share videos with."
+        },
+        {
+          "type": "microphone",
+          "usageDescription": "This lets you include audio with your videos and search using your voice."
+        },
+        {
+          "type": "location",
+          "usageDescription": "Makes it easier for you to attach location information to your videos and live streams and allows for features such as improved recommendations and ads."
+        }
+      ],
+      "screenshotURLs": [
+      ]
+    },
+  ],
+  "userInfo": {}
+}
