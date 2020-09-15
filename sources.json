@@ -1,11 +1,11 @@
 {
-  "name": "Quark Source++",
+  "name": "LUKAS STORE",
   "identifier": "com.noahkeck.quarksource++.demo",
   "sourceURL": "https://raw.githubusercontent.com/lukasSVK1/OBSipa/master/source.json",
   "apps": [
     {
       "name": "Camera for OBS Studio",
-      "bundleIdentifier": "com.apple.dt.runtime.swiftDarwin",
+      "bundleIdentifier": "io.townsend.obs-iphone",
       "developerName": "LUKAS LUKAS",
       "subtitle": "OBS",
       "version": "3.0.3",
